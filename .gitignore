@@ -1,0 +1,16 @@
+# unity
+Builds/
+Build/
+_Builds/
+_Build/
+Temp/
+Library/
+obj/
+.vscode/
+
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
